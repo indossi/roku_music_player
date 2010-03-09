@@ -1,0 +1,34 @@
+
+This is a server side of the music player.  It is a Java application that
+generates a xml file listing the attributes and locations of mp3 and wma
+files by recursively traversing a specified base directory.  Currently it
+only supports processing a Windows-based music storage file structure,
+but other file storage structures can be added.  It should be possible
+for a single xml file to be generated from multiple base directories.
+
+The "--wmadir <dir>" option specifies the base directory of wma music files.
+This option can be specified more than once for multiple base directories.
+ 
+The "--update" option updates a existing xml file instead of creating a new
+one.
+
+The "--url <url>" option specifies the url base directory that is to be
+accessed from the DVP. 
+
+Example(Linux):
+
+$ java -jar musicXml.jar --wmadir /media/windows/Documents\ and\ Settings/user/My\ Documents/My\ Music/Zune --url http://192.168.0.122/pub
+
+
+Notes:
+1. The SDK url transfer calls appear unable to handle any remote file whose
+name contains the pound, space, or ampersand characters, i.e.: '#', ' ', '&'.
+One workaround is to create a symbolic link to offending files that has these
+characters replaced or removed. The symbolic link is then used as an
+attribute in the xml file. Whether the underlying problem is due to the
+SDK or the Apache2.2 web server is unknown.
+ 
+2. If an album's art is unavailalble, then set the album's art attribute in
+the xml file to the empty string, i.e. "", which will result in the use of
+the default generic album, artist and song art.
+

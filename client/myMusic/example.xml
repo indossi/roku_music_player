@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<music artists="2" albums="2" songs="37">
+    <artist index="0" name="Big Star">
+        <album
+            art="http://192.168.0.147/pub/music/Big_Star/1_Record-Radio_City/AlbumArt_{CC63549A-4EF5-4E64-BB73-2BA080056176}_Large.jpg"
+            index="10" name="#1 Record-Radio City">
+            <song format="wma" index="900" length="300" name="Feel"
+                track="1" url="http://192.168.0.147/pub/music/Big_Star/1_Record-Radio_City/1_Feel.wma"/>
+            <song format="wma" index="2796" length="300"
+                name="The Ballad of el Goodo" track="2" url="http://192.168.0.147/pub/music/Big_Star/1_Record-Radio_City/2_The_Ballad_of_el_Goodo.wma"/>
+            <song format="wma" index="1415" length="300"
+                name="In the Street" track="3" url="http://192.168.0.147/pub/music/Big_Star/1_Record-Radio_City/3_In_the_Street.wma"/>
+            <song format="wma" index="2973" length="300" name="Thirteen"
+                track="4" url="http://192.168.0.147/pub/music/Big_Star/1_Record-Radio_City/4_Thirteen.wma"/>
+            <song format="wma" index="721" length="300"
+                name="Don't Lie to Me" track="5" url="http://192.168.0.147/pub/music/Big_Star/1_Record-Radio_City/5_Don't_Lie_to_Me.wma"/>
+            <song format="wma" index="2851" length="300"
+                name="The India Song" track="6" url="http://192.168.0.147/pub/music/Big_Star/1_Record-Radio_City/6_The_India_Song.wma"/>
+            <song format="wma" index="3294" length="300"
+                name="When My Baby's Beside Me" track="7" url="http://192.168.0.147/pub/music/Big_Star/1_Record-Radio_City/7_When_My_Baby's_Beside_Me.wma"/>
+            <song format="wma" index="1891" length="300"
+                name="My Life Is Right" track="8" url="http://192.168.0.147/pub/music/Big_Star/1_Record-Radio_City/8_My_Life_Is_Right.wma"/>
+            <song format="wma" index="1031" length="300"
+                name="Give Me Another Chance" track="9" url="http://192.168.0.147/pub/music/Big_Star/1_Record-Radio_City/9_Give_Me_Another_Chance.wma"/>
+            <song format="wma" index="3083" length="300"
+                name="Try Again" track="10" url="http://192.168.0.147/pub/music/Big_Star/1_Record-Radio_City/10_Try_Again.wma"/>
+            <song format="wma" index="3226" length="300"
+                name="Watch the Sunrise" track="11" url="http://192.168.0.147/pub/music/Big_Star/1_Record-Radio_City/11_Watch_the_Sunrise.wma"/>
+            <song format="wma" index="2602" length="300" name="St 100-6"
+                track="12" url="http://192.168.0.147/pub/music/Big_Star/1_Record-Radio_City/12_St_100-6.wma"/>
+            <song format="wma" index="2017" length="300"
+                name="O My Soul" track="13" url="http://192.168.0.147/pub/music/Big_Star/1_Record-Radio_City/13_O_My_Soul.wma"/>
+            <song format="wma" index="1632" length="300"
+                name="Life Is White" track="14" url="http://192.168.0.147/pub/music/Big_Star/1_Record-Radio_City/14_Life_Is_White.wma"/>
+            <song format="wma" index="3233" length="300"
+                name="Way Out West" track="15" url="http://192.168.0.147/pub/music/Big_Star/1_Record-Radio_City/15_Way_Out_West.wma"/>
+            <song format="wma" index="3272" length="300"
+                name="What's Going Ahn" track="16" url="http://192.168.0.147/pub/music/Big_Star/1_Record-Radio_City/16_What's_Going_Ahn.wma"/>
+            <song format="wma" index="3405" length="300"
+                name="You Get What You Deserve" track="17" url="http://192.168.0.147/pub/music/Big_Star/1_Record-Radio_City/17_You_Get_What_You_Deserve.wma"/>
+            <song format="wma" index="1828" length="300" name="Mod Lang"
+                track="18" url="http://192.168.0.147/pub/music/Big_Star/1_Record-Radio_City/18_Mod_Lang.wma"/>
+            <song format="wma" index="247" length="300"
+                name="Back of a Car" track="19" url="http://192.168.0.147/pub/music/Big_Star/1_Record-Radio_City/19_Back_of_a_Car.wma"/>
+            <song format="wma" index="616" length="300"
+                name="Daisy Glaze" track="20" url="http://192.168.0.147/pub/music/Big_Star/1_Record-Radio_City/20_Daisy_Glaze.wma"/>
+            <song format="wma" index="2449" length="300"
+                name="She's a Mover" track="21" url="http://192.168.0.147/pub/music/Big_Star/1_Record-Radio_City/21_She's_a_Mover.wma"/>
+            <song format="wma" index="2409" length="300"
+                name="September Gurls" track="22" url="http://192.168.0.147/pub/music/Big_Star/1_Record-Radio_City/22_September_Gurls.wma"/>
+            <song format="wma" index="1847" length="300"
+                name="Morpha Too" track="23" url="http://192.168.0.147/pub/music/Big_Star/1_Record-Radio_City/23_Morpha_Too.wma"/>
+            <song format="wma" index="1377" length="300"
+                name="I'm in Love With a Girl" track="24" url="http://192.168.0.147/pub/music/Big_Star/1_Record-Radio_City/24_I'm_in_Love_With_a_Girl.wma"/>
+        </album>
+    </artist>
+    <artist index="23" name="Chevelle">
+        <album
+            art="http://192.168.0.147/pub/music/Chevelle/Point_1/AlbumArt_{5A62DA1D-91FA-4D5F-A2BB-E7C0967EAE60}_Large.jpg"
+            index="170" name="Point #1">
+            <song format="wma" index="2070" length="300" name="Open"
+                track="1" url="http://192.168.0.147/pub/music/Chevelle/Point_1/1_Open.wma"/>
+            <song format="wma" index="2181" length="300" name="Point #1"
+                track="2" url="http://192.168.0.147/pub/music/Chevelle/Point_1/2_Point_1.wma"/>
+            <song format="wma" index="2224" length="300"
+                name="Prove to You" track="3" url="http://192.168.0.147/pub/music/Chevelle/Point_1/3_Prove_to_You.wma"/>
+            <song format="wma" index="1808" length="300" name="Mia"
+                track="4" url="http://192.168.0.147/pub/music/Chevelle/Point_1/4_Mia.wma"/>
+            <song format="wma" index="2494" length="300" name="Skeptic"
+                track="5" url="http://192.168.0.147/pub/music/Chevelle/Point_1/5_Skeptic.wma"/>
+            <song format="wma" index="189" length="300"
+                name="Anticipation" track="6" url="http://192.168.0.147/pub/music/Chevelle/Point_1/6_Anticipation.wma"/>
+            <song format="wma" index="737" length="300" name="Dos"
+                track="7" url="http://192.168.0.147/pub/music/Chevelle/Point_1/7_Dos.wma"/>
+            <song format="wma" index="1679" length="300" name="Long"
+                track="8" url="http://192.168.0.147/pub/music/Chevelle/Point_1/8_Long.wma"/>
+            <song format="wma" index="340" length="300"
+                name="Blank Earth" track="9" url="http://192.168.0.147/pub/music/Chevelle/Point_1/9_Blank_Earth.wma"/>
+            <song format="wma" index="2350" length="300" name="SMA"
+                track="10" url="http://192.168.0.147/pub/music/Chevelle/Point_1/10_SMA.wma"/>
+            <song format="wma" index="2137" length="300" name="Peer"
+                track="11" url="http://192.168.0.147/pub/music/Chevelle/Point_1/11_Peer.wma"/>
+        </album>
+    </artist>
+</music>

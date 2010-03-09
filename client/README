@@ -1,0 +1,10 @@
+
+This is the client side of the music player. It operates by reading a
+remote xml file that lists the attributes of the music files to be played
+(see the example xml file). The remote machine requires a running web
+server, i.e. Apache2.2.
+ 
+Once the client application is running, go to the "xml file" poster under
+the "settings" category and enter the url of the xml file on the keyboard
+screen. Once the xml file has been processed, the "songs", "albums", and
+"artists" categories will be populated.

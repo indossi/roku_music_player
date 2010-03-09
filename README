@@ -1,0 +1,6 @@
+
+This repository contains files that implement a simple mp3/wma player on
+the Roku Digital Video Player(DVP).  There is a client component and a
+server component.  The client component is a Brightscript application that
+runs on the DVP and server is a Java application that generates an Xml file
+listing the attributes of wma/mp3 files that can be played on the DVP.
